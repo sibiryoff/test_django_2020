@@ -1,0 +1,4 @@
+Django==2.2
+djangorestframework==3.12.2
+easy-thumbnails==2.7
+Pillow==8.0.1
